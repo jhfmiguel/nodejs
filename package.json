@@ -1,0 +1,35 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "A repository with some examples with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhfmiguel/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Jorge Miguel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhfmiguel/nodejs/issues"
+  },
+  "homepage": "https://github.com/jhfmiguel/nodejs#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "global": "^4.4.0"
+  }
+}

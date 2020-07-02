@@ -1,0 +1,6 @@
+#Files and folders to ignore
+
+node_modules/
+
+*.zip
+*.rar
